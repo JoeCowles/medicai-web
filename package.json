@@ -2,7 +2,7 @@
   "name": "medicai-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/REPOSITORY_NAME",
+  "homepage": "https://joecowles.github.io/medicai-web",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.2.0",
